@@ -1,4 +1,4 @@
-Hi, I’m @DevonCowling.
+Hi, I’m Devon Cowling.
 I’m currently studying Industrial & Systems Engineering at the University of Pretoria, and I have an interest in simulation and coding.
 
 <!---
